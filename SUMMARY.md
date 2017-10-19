@@ -4,7 +4,7 @@
 * [管理员](chapter1.md)
   * [创建项目](chapter1/chuang-jian-xiang-mu.md)
   * [创建用户](chapter1/chuang-jian-yong-hu.md)
-  * 创建机房
+  * [创建机房](chapter1/chuang-jian-ji-fang.md)
   * 创建告警媒介
   * 代理
   * 操作记录
