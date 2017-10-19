@@ -3,7 +3,7 @@
 * [智能运维系统登录](README.md)
 * [管理员](chapter1.md)
   * [创建项目](chapter1/chuang-jian-xiang-mu.md)
-  * 创建用户
+  * [创建用户](chapter1/chuang-jian-yong-hu.md)
   * 创建机房
   * 创建告警媒介
   * 代理
