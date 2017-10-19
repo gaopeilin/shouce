@@ -1,3 +1,6 @@
-# My Awesome Book
+# 登录智能运维系统
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+#### 打开浏览器输入智能运维系统管理IP地址：如172.16.102.11；输入账号/密码登录，如如所示：
+
+![](/assets/登录页面.png)
+
