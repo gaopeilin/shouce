@@ -9,8 +9,8 @@
   * [代理](chapter1/dai-li.md)
   * [操作记录](chapter1/cao-zuo-ji-lu.md)
 * [任务](ren-wu.md)
-  * 总览
-  * 创建作业
+  * [总览](ren-wu/zong-lan.md)
+  * [创建作业](ren-wu/chuang-jian-zuo-ye.md)
   * 创建编排
   * 创建操作
   * 自定义模板
