@@ -12,7 +12,7 @@
   * [总览](ren-wu/zong-lan.md)
   * [创建作业](ren-wu/chuang-jian-zuo-ye.md)
   * [创建编排](ren-wu/chuang-jian-bian-pai.md)
-  * 创建操作
+  * [创建操作](ren-wu/chuang-jian-cao-zuo.md)
   * 自定义模板
   * 创建标签
   * [资源](ren-wu/tian-jia-zi-yuan.md)
