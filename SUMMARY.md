@@ -7,7 +7,7 @@
   * [创建机房](chapter1/chuang-jian-ji-fang.md)
   * [创建告警媒介](chapter1/chuang-jian-gao-jing-mei-jie.md)
   * [代理](chapter1/dai-li.md)
-  * 操作记录
+  * [操作记录](chapter1/cao-zuo-ji-lu.md)
 * [任务](ren-wu.md)
   * 总览
   * 创建作业
