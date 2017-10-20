@@ -22,6 +22,7 @@
     * 导出
     * 批量重启
     * 修改密码
+  * [文件管理](ren-wu/wen-jian-guan-li.md)
 * [监控](jian-kong.md)
   * 总览
   * 创建仪表盘
