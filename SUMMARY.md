@@ -13,8 +13,8 @@
   * [创建作业](ren-wu/chuang-jian-zuo-ye.md)
   * [创建编排](ren-wu/chuang-jian-bian-pai.md)
   * [创建操作](ren-wu/chuang-jian-cao-zuo.md)
-  * 自定义模板
-  * 创建标签
+  * [自定义模板](ren-wu/zi-ding-yi-mo-ban.md)
+  * [创建标签](ren-wu/chuang-jian-biao-qian.md)
   * [资源](ren-wu/tian-jia-zi-yuan.md)
     * [新建资源](ren-wu/tian-jia-zi-yuan/xin-jian-zi-yuan.md)
     * 批量删除
