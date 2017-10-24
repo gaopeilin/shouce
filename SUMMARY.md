@@ -20,7 +20,7 @@
 * [监控](jian-kong.md)
   * [总览](jian-kong/zong-lan.md)
   * [创建仪表盘](jian-kong/chuang-jian-yi-biao-pan.md)
-  * 事件台
+  * [事件台](jian-kong/shi-jian-tai.md)
   * 资源库
   * 创建监测器
   * 创建标签
