@@ -18,8 +18,8 @@
   * [资源](ren-wu/tian-jia-zi-yuan.md)
   * [文件管理](ren-wu/wen-jian-guan-li.md)
 * [监控](jian-kong.md)
-  * 总览
-  * 创建仪表盘
+  * [总览](jian-kong/zong-lan.md)
+  * [创建仪表盘](jian-kong/chuang-jian-yi-biao-pan.md)
   * 事件台
   * 资源库
   * 创建监测器
