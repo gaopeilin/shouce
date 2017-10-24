@@ -16,10 +16,6 @@
   * [自定义模板](ren-wu/zi-ding-yi-mo-ban.md)
   * [创建标签](ren-wu/chuang-jian-biao-qian.md)
   * [资源](ren-wu/tian-jia-zi-yuan.md)
-    * [导入](ren-wu/tian-jia-zi-yuan/dao-ru.md)
-    * 导出
-    * 批量重启
-    * 修改密码
   * [文件管理](ren-wu/wen-jian-guan-li.md)
 * [监控](jian-kong.md)
   * 总览
