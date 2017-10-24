@@ -36,3 +36,13 @@
 
 ![](/assets/标签搜索.png)
 
+---
+
+## 标签用途
+
+#### 标签可用于作业添加时的快速查找。如下图所示，添加作业处可以通过标签快速查找标签下的主机。比如CPJF-storage标签包含CPJF-storage01、CPJF-storage02、CPJF-storage03三台台主机。如图：
+
+#### ![](/assets/标签用途.png)
+
+
+

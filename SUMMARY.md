@@ -16,8 +16,6 @@
   * [自定义模板](ren-wu/zi-ding-yi-mo-ban.md)
   * [创建标签](ren-wu/chuang-jian-biao-qian.md)
   * [资源](ren-wu/tian-jia-zi-yuan.md)
-    * [新建资源](ren-wu/tian-jia-zi-yuan/xin-jian-zi-yuan.md)
-    * 批量删除
     * 导入
     * 导出
     * 批量重启
