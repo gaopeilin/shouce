@@ -14,7 +14,7 @@
   * [创建编排](ren-wu/chuang-jian-bian-pai.md)
   * [创建操作](ren-wu/chuang-jian-cao-zuo.md)
   * [自定义模板](ren-wu/zi-ding-yi-mo-ban.md)
-  * [创建标签](ren-wu/chuang-jian-biao-qian.md)
+  * [标签](ren-wu/chuang-jian-biao-qian.md)
   * [资源](ren-wu/tian-jia-zi-yuan.md)
   * [文件管理](ren-wu/wen-jian-guan-li.md)
 * [监控](jian-kong.md)
@@ -23,7 +23,7 @@
   * [事件台](jian-kong/shi-jian-tai.md)
   * [资源库](jian-kong/zi-yuan-ku.md)
   * [监测器](jian-kong/chuang-jian-jian-ce-qi.md)
-  * 创建标签
-  * 创建指标标签
+  * [标签](jian-kong/chuang-jian-biao-qian.md)
+  * [创建指标标签](jian-kong/chuang-jian-zhi-biao-biao-qian.md)
   * 创建插件
 
