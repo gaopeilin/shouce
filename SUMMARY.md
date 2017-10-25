@@ -25,5 +25,5 @@
   * [监测器](jian-kong/chuang-jian-jian-ce-qi.md)
   * [标签](jian-kong/chuang-jian-biao-qian.md)
   * [指标标签](jian-kong/chuang-jian-zhi-biao-biao-qian.md)
-  * 创建插件
+  * [创建插件](jian-kong/chuang-jian-cha-jian.md)
 
