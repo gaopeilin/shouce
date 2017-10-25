@@ -24,6 +24,6 @@
   * [资源库](jian-kong/zi-yuan-ku.md)
   * [监测器](jian-kong/chuang-jian-jian-ce-qi.md)
   * [标签](jian-kong/chuang-jian-biao-qian.md)
-  * [创建指标标签](jian-kong/chuang-jian-zhi-biao-biao-qian.md)
+  * [指标标签](jian-kong/chuang-jian-zhi-biao-biao-qian.md)
   * 创建插件
 
