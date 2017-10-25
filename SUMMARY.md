@@ -22,7 +22,7 @@
   * [创建仪表盘](jian-kong/chuang-jian-yi-biao-pan.md)
   * [事件台](jian-kong/shi-jian-tai.md)
   * [资源库](jian-kong/zi-yuan-ku.md)
-  * 创建监测器
+  * [创建监测器](jian-kong/chuang-jian-jian-ce-qi.md)
   * 创建标签
   * 创建指标标签
   * 创建插件
