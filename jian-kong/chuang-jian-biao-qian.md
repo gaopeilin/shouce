@@ -48,13 +48,13 @@
 
 #### 在仪表盘新建仪表界面下，选择资源，可以通过搜索标签，进行快速搜索主机。比如CPJF-controller标签包含CPJF-controller01、CPJF-controller02和CPJF-controller03三台主机，通过输入CPJF-controller标签名，可以找到CPJF-controller01、CPJF-controller02和CPJF-controller03主机，如图：
 
-#### ![](/assets/标签用途1监控.png)
+#### ![](/assets/监控标签用途3.png)
 
 #### 
 
 #### 在监测器，新建监测器界面，选择资源，可以通过搜索标签，进行快速搜索主机。比如CPJF-controller签包含CPJF-controller01、CPJF-controller02和CPJF-controller03三台主机，通过输入CPJF-controller标签名，可以找到CPJF-controller01、CPJF-controller02和CPJF-controller03主机，如图：
 
-#### ![](/assets/标签用途3监控.png)
+#### ![](/assets/监控标签用途2.png)
 
 
 
