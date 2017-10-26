@@ -1,8 +1,8 @@
 # Summary
 
 * [智能运维系统登录](README.md)
+* [快速入门](chapter1/kuai-su-ru-men.md)
 * [管理员](chapter1.md)
-  * [快速入门](chapter1/kuai-su-ru-men.md)
   * [项目](chapter1/chuang-jian-xiang-mu.md)
   * [用户](chapter1/chuang-jian-yong-hu.md)
   * [机房](chapter1/chuang-jian-ji-fang.md)
