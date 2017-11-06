@@ -153,13 +153,25 @@
 
 ![](/assets/新建监测器1.png)
 
-#### 
-
 ## IPMI监测器
 
-#### 新建IPMI监测器，检测资源IPMI远程管理卡存活情况，如图：
+#### 例：新建CPJF-compute05、CPJF-compute06、IPMI监测器，检测资源IPMI远程管理卡存活情况。
 
-![](/assets/IPMI监测器.png)
+#### 标题：远程管理卡监测
+
+#### 资源：CPJF-compute05、CPJF-compute06
+
+#### 告警媒介：Email
+
+#### 通知用户：lwj
+
+#### 中级用户：zhangsan
+
+#### 高级用户：lisi
+
+备注：标\*为必填项，如下图所示：
+
+
 
 ## 拨测
 
